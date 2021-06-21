@@ -1,0 +1,107 @@
+.titulo-principal__numero .h1
+  color: #12263F
+
+.border_table
+  border: black 3px solid
+
+.cajon
+  position: relative
+  &:before
+    content: ''
+    display: block
+    width: 25px
+    height: 10px
+    position: absolute
+    top: 0
+    left: 0
+
+  &--amarillo 
+    @extend .cajon
+    background-color: lighten($color-acento-contenido, 25%)
+    &:before
+      background-color: $color-acento-contenido
+
+  &--morado_1
+    @extend .cajon
+    background-color: lighten( $color-primario, 18%)
+    &:before
+      background-color: $color-primario
+
+.img-a 
+  display: block 
+  margin: auto   
+  width: auto
+  height: auto
+
+.img-b 
+  display: block 
+  margin: right    
+  width: auto
+  height: auto
+
+.color_tar
+  background-color: #DCBFFF
+
+.alt_tarj
+  min-height: 347px
+
+.alt_tarj_1
+  min-height: 558px
+
+.alt_tarj_2
+  min-height: 419px
+
+.bloque-texto-d.color-secundario:before 
+    background-color: #DCBFFF
+
+.bloque-texto-f.color-secundario:before 
+    background-color: #FFFBE7
+
+.bloque-texto-f__comillas i 
+    position: absolute
+    font-size: 2.5em
+    color: #BB83FF
+
+
+
+.tajeta--gris
+  background-color: #E8E8E8
+
+.bloque-texto-a.color-primario
+  background-color: #E8E8E8
+
+.jumbo_1
+  background-color: #F1E6FF
+  border-radius: 1em
+
+.jumbo_2
+  background-color: #FEF8DD
+  border-radius: 1em
+
+.top-tarj
+  margin-top: -62px
+
+.color-tarje
+  background-color: #E8F0F8
+
+.tarjeta.color-acento-contenido--borde 
+  background-color: #F1F1F1
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.bloque-texto-a.color-acento-contenido
+  background-color: #E8E8E8
+
+.color-f
+  background-color: #F1E6FF
+
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #E0F1FE
+
+.linea-tiempo-d .tarjeta
+  background-color: #E0F1FE
+
+
+
+
