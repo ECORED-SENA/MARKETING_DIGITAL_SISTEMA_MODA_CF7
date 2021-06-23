@@ -28,7 +28,7 @@
             h2 ¿De dónde nacen las tendencias de moda?
           p.mb-4 Apreciado aprendiz, con la intención de acercarlo a la conceptualización de las tendencias del sector moda, lo invitamos a explorar el siguiente recurso educativo  ya que esto permitirá su aplicabilidad en el sector laboral ¿estás listo?
           
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Texto_Tendencias.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Infografia_CF7_5.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
