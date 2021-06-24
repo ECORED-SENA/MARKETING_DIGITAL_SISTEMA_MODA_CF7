@@ -10,8 +10,31 @@
 
     p.mb-5 Así como el sistema moda contempla áreas, ésta también se clasifica de acuerdo con gamas o líneas de mercado dentro del sector de la moda. Observe el siguiente gráfico para que usted tenga información que le ayude clasificar el sistema de la moda en el mundo:
 
-    figure
-      img.img-a.mb-5(src='@/assets/curso/tema_2/img_1.svg', alt='Massprestige Colaboraciones')
+    ImagenInfografica.color-primario.mb-5
+
+      template(v-slot:imagen)
+        figure
+          img.img-a(src='@/assets/curso/tema_2/img_1.svg', alt='Massprestige Colaboraciones')
+
+      .tarjeta.color-secundario.p-3(x="56%" y="7%")
+        p.mb-0 Son prendas exclusivas a la medida del cliente y con un estricto proceso de calidad. 
+        p La alta costura tiene su propio centro llamada cámara sindical de alta costura. Este gremio fue creado inicialmente por el ya mencionado Alfred Frederick Worth.
+
+
+      .tarjeta.color-secundario.p-3(x="56%" y="23%")
+        p Son prendas producidas en serie con patrones que se repiten, estas siguen las tendencias y elementos que se dan en la alta costura. Las colecciones son presentadas por diferentes casas de moda en: semanas de la moda.
+
+      .tarjeta.color-secundario.p-3(x="56%" y="38%")
+        p Esta línea se maneja dentro de lo que ahora se llama #[i midi couture], que permite generar prendas no tan costosas empleando textiles con bordados generados industrialmente, esto hace que sea menos costoso
+
+
+      .tarjeta.color-secundario.p-3(x="56%" y="54%")
+        p Es una gama que se produce para las masas a precios muy bajos. Utiliza materiales de baja calidad dado que necesitan producir a una escala gigante, para circular sus productos, en este modelo se contempla la producción de series cortas basados en tendencias del momento.
+
+      .tarjeta.color-secundario.p-3(x="56%" y="70%")
+        p Esta categoría posee una filosofía de consumo responsable porque permite concienciar sobre el impacto de las vestir en el medio ambiente, el agotamiento de recursos y la huella que está dejando la industria textil en la sociedad. Está contemplada bajo modelos de sostenibilidad.
+
+
 
     p.mb-5 Dentro de las gamas de mercado se hace necesario diferenciar las tipologías de productos y características que ofrecen dentro de cada línea, por ejemplo, aunque se hable de una camisa, esta camisa será diferente en cada una de estas líneas, esto porque su costo será diferencial en la medida en la que factores como la calidad, materia prima, acabados influyan en el precio final, respondiendo a un público objetivo. En el siguiente gráfico se podrá apreciar la categoría de producto, en cuanto al tipo, nivel y ubicación en el mercado:
 
