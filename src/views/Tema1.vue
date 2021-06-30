@@ -8,13 +8,13 @@
         span 1
       h1 Introducción al sistema moda
 
-    .row.justify-content-center.align-items-center.d-flex.p-2.mb-5
-      .col-lg-5
-        .cajon--morado_1.p-5.mb-5.d-flex
+    .row.align-items-center.d-flex.p-2.mb-3
+      .col-lg-6
+        .cajon--morado_1.p-5
           p La moda y las tendencias permean áreas en las que todo ser humano se desenvuelve, áreas que representan el estilo de vida de un individuo, comunidad o sociedad y que dentro de estas áreas se encuentran: 
             strong gastronomía, música, política, conciencia ambiental, tecnología, estructuras familiares, entre otras como el arte, la cosmética, el cine.
         
-      .col-lg-6.d-flex
+      .col-lg-6.d-flex.p-4
         img.img-a(src='@/assets/curso/tema_1/img_1.png')
 
     p.mb-5 Es de suma importancia leer la moda de una manera integral y no aislada en el vestuario, relacionándola directamente con la cultura, dado que cuando hablamos de grupos, comunidades y sociedades está en todo el contexto. Se puede entender como cultura un concepto amplio que abarca manifestaciones del ser humano y un sistema de creencias, costumbres desarrolladas por un grupo, comunidad y sociedad. La cultura integra símbolos y significados que hacen que una persona sienta que forma parte de un grupo (ciudad, región, país)
@@ -22,7 +22,8 @@
     p.mb-5 Observa el siguiente recurso educativo para identificar una visión integrada de la moda, tendencias en escenarios del sistema moda, situando la moda en el arte   
       strong ¿dónde has visto estas manifestaciones culturales?
 
-    SlyderB.mb-5(:datos="datosSlyder")
+    
+    SlyderBTitulo.mb-5(:datos="datosSlyder")
 
     .cajon--amarillo.p-4.mb-5
       .row
@@ -31,7 +32,7 @@
         .col-lg-7
           p Luego del ejercicio de observación generado por el recurso de aprendizaje anterior usted percibió cómo en el sistema moda confluyen y se retoman las manifestaciones del ser humano para configurar formas, colores y texturas que se componen a través de la vestimenta. Reconocemos que la intención es que usted identifique características de la moda para entender esta como producto en el mundo del marketing digital, sin embargo, hemos seleccionado un recurso que le provee información relacionada con la evolución de la moda, la historia del vestuario y demás. Adelante con su exploración. 
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-4
         a.anexo.mb-4(:href="obtenerLink('/downloads/Texto_Concepto_Moda.pdf')" target="_blank")
           .anexo__icono
@@ -119,7 +120,112 @@
 
     p.mb-5 Entre los elementos de diseño dirigidos al sector vestuario y moda se encuentran: #[strong 1. Silueta, 2. Volumen, 3. La forma, 4. La Textura y 5. El color]. Para más información se ha diseñado un recurso educativo para ver la caracterización de dichos elementos. Adelante. 
 
-    SlyderB.mb-5(:datos="datosSlyder1")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tajeta--gris")
+      .row.justify-content-center(titulo="La silueta")
+        .col-lg-11
+          p.mb-5 Su función principal es modelar el cuerpo, rehacer líneas anatómicas y generar una sensación de cambio de las proporciones entre las partes del cuerpo.
+
+          h3.text-center.mb-5 Tipos de cuerpo según la silueta 
+
+          figure.mb-5
+            img.img-a(src='@/assets/curso/tema_1/img_15.svg')
+
+          figure
+            img.img-a(src='@/assets/curso/tema_1/img_16.svg')
+
+           
+
+      div(titulo="El volumen")
+        .row.justify-content-center
+          .col-lg-11
+            p.mb-5 Está totalmente asociado con la silueta. El exceso o la carencia de él, se aprecian de inmediato en el estilo de la prenda y en su silueta. También, la prenda puede presentar características de ligereza o peso a través del uso de tejidos acolchados, gruesos o transparentes, que a su vez influirán en la silueta resultante. 
+
+            p.mb-5 Debido al volumen de una prenda se puede generar la sensación de diferentes siluetas en un mismo cuerpo, en el ejemplo expuesto la modelo Gigi Hadid tiene usa 3 outfits diferentes donde se evidencia lo anterior mencionado.
+
+            .row
+              .col-lg-4
+                p.BorTit Figura 4. Super amplia
+                figure
+                  img(src='@/assets/curso/tema_1/img_16.png', alt='')
+                  figcaption Nota. Bulevar (2021) Bulevar: Super Amplia  
+              .col-lg-4
+                p.BorTit Figura 5. Amplia
+                figure
+                  img(src='@/assets/curso/tema_1/img_35.png', alt='')
+                  figcaption Nota. E  (2018). E: Amplia.
+
+              .col-lg-4
+                p.BorTit Figura 6. Ajustada
+                figure
+                  img(src='@/assets/curso/tema_1/img_36.png', alt='')
+                  figcaption Nota. E (2021) E: Ajustada
+
+      div(titulo="La forma")
+        .row.justify-content-center
+          .col-lg-11
+            p.mb-0 Este elemento dialoga a como se percibe de manera externa las cosas:
+            .row.justify-content-center
+              .col-lg-11
+                p.mb-0 
+                  strong Apariencia 
+                p
+                  strong Estructura
+
+            p.mb-5 La inspiración de las colecciones se refleja con fuerza en este elemento del diseño. En la siguiente imagen de Iris Van Herpen se observa esto. 
+
+            .row.justify-content-center
+              .col-lg-10
+                p.BorTit Figura 7. La forma
+                figure
+                  img(src='@/assets/curso/tema_1/img_17.png', alt='')
+                  figcaption Nota. Divi (2019) Divi: La forma. 
+
+
+      .row.justify-content-center(titulo="La textura")
+        .col-lg-11
+          p.mb-5 Hace relación al material de una superficie. Existen dos tipos de textura en la moda, la primera se conoce como natural o superpuesta y la segunda como textura con sensación táctil y visual. 
+
+          .row.justify-content-center
+            .col-lg-10
+              p.BorTit Figura 8. Textura natural o superpuesta
+              figure.mb-5
+                img(src='@/assets/curso/tema_1/img_18.png', alt='')
+                figcaption Nota. Iniciativa Textil (2021)  Iniciativa Textil: Natural o superpuesta
+
+              .row
+                .col-lg-6
+                  p.BorTit Figura 9. Textura con sensación visual
+                  figure
+                    img(src='@/assets/curso/tema_1/img_37.png', alt='')
+                    figcaption Nota Aniversario París (2021) Aniversario 
+                      | País: Sensación Visual [Imagen 9]. 
+                .col-lg-6
+                  p.BorTit Figura 10. Textura de sensación táctil
+                  figure
+                    img(src='@/assets/curso/tema_1/img_38.png', alt='')
+                    figcaption Nota. Pinterest (2021) Pinterest: Sensación Táctil. [Imagen 10]
+
+      .row.justify-content-center(titulo="El color")
+        .col-lg-11
+          p Es uno de los elementos que se perciben con mayor rapidez en el instante de ver por primera vez un diseño. El color tiene una gran influencia en la intención de una colección ya que se encuentro relacionado a generar sensaciones. Por lo tanto, es vital poseer un conocimiento básico de la teoría del color y de cómo se crean y se combinan los colores. 
+
+          ol.lista-ol.mb-5
+            li 
+              span.text-bold 1. 
+              strong El matiz
+            li 
+              span.text-bold 2. 
+              strong La luminosidad
+            li 
+              span.text-bold 3. 
+              strong La cantidad de luz
+
+          .row.justify-content-center
+            .col-lg-10
+              p.BorTit Figura 11. Sensación táctil
+              figure
+                img(src='@/assets/curso/tema_1/img_19.png', alt='')
+                figcaption Nota. Viste la Calle (2015) Viste la Calle: Sensación Táctil [Imagen 11].
 
     #esquemas.titulo-segundo
       h2 1.3 Esquemas de color
@@ -240,70 +346,42 @@
 </template>
 
 <script>
+import SlyderBTitulo from '../components/SlyderBTitulo'
 export default {
   name: 'Tema1',
-  components: {},
+  components: {
+    SlyderBTitulo,
+  },
   data: () => ({
     // variables de vue
     datosSlyder: [
       {
         titulo: 'Moda Inspirado en Arte: Van Gogh, Mondrian y más.',
+        tituloImg: 'Figura 1, Moda Inspirado en Arte: Van Gogh, Mondrian y más',
         texto:
-          'En la presente imagen se observa un ejemplo de como el arte se ha desplazado al escenario de las tendencias de la moda. Cada vez es más común ver prendas, accesorios y otros inspiradas en pinturas. ',
+          'En la presente imagen se observa un ejemplo de como el arte se ha desplazado al escenario de las tendencias de la moda. Cada vez es más común ver prendas, accesorios y otros inspiradas en pinturas.',
         imagen: require('@/assets/curso/tema_1/img_2.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
+        leyendaImagen:
+          'Nota. PlayBoy (2020) PlayBoy : Moda Inspirado en Arte: Van Gogh, Mondrian y más ',
       },
       {
         titulo:
           'Cómo adaptar la moda de las pasarelas a la decoración de espacios',
+        tituloImg:
+          'Figura 2 Cómo adaptar la moda de las pasarelas a la decoración de espacios',
         texto:
           'En la imagen se observa como el contexto de la moda y la decoración cada vez comparten relaciones en cuanto al uso de colores, texturas y estampados. Es una opción para la diversificación de los modelos de negocio.',
         imagen: require('@/assets/curso/tema_1/img_3.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
+        leyendaImagen:
+          'Nota. Mujer (2020) Mujer: Cómo adaptar la moda de las pasarelas a la decoración de espacios',
       },
       {
         titulo: 'Pantone Food',
+        tituloImg: 'Figura 3 Pantone Food',
         texto:
           '¿Qué observas en la imagen?, si su respuesta una de sus respuesta es el color se conectado con esta descripción porque en la presente imagen se percibe como la naturaleza , la gastronomía inspira la paleta de colores del sistema de moda. ',
         imagen: require('@/assets/curso/tema_1/img_4.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
-      },
-    ],
-    datosSlyder1: [
-      {
-        titulo: 'La silueta',
-        texto:
-          'En la presente imagen se observa un ejemplo de como el arte se ha desplazado al escenario de las tendencias de la moda. Cada vez es más común ver prendas, accesorios y otros inspiradas en pinturas. ',
-        imagen: require('@/assets/curso/tema_1/img_15.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'El volúmen',
-        texto:
-          'Está totalmente asociado con la silueta. El exceso o la carencia de él, se aprecian de inmediato en el estilo de la prenda y en su silueta. También, la prenda puede presentar características de ligereza o peso a través del uso de tejidos acolchados, gruesos o transparentes, que a su vez influirán en la silueta resultante.<br><br>Debido al volumen de una prenda se puede generar la sensación de diferentes siluetas en un mismo cuerpo, en el ejemplo expuesto la modelo Gigi Hadid tiene usa 2 outfits diferentes donde se evidencia lo anterior mencionado.',
-        imagen: require('@/assets/curso/tema_1/img_16.png'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'La forma',
-        texto:
-          'Este elemento dialoga a como se percibe de manera externa las cosas:     <strong><br>Apariencia<br>Estructura</strong><br><br>La inspiración de las colecciones se refleja con fuerza en este elemento del diseño. En la siguiente imagen de Iris Van Herpen se observa esto. ',
-        imagen: require('@/assets/curso/tema_1/img_17.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'La textura',
-        texto:
-          'Hace relación al material de una superficie. Existen dos tipos de textura en la moda, la primera se conoce como natural o superpuesta y la segunda como textura con sensación táctil y visual.',
-        imagen: require('@/assets/curso/tema_1/img_18.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'El color',
-        texto:
-          'Es uno de los elementos que se perciben con mayor rapidez en el instante de ver por primera vez un diseño. El color tiene una gran influencia en la intención de una colección ya que se encuentro relacionado a generar sensaciones. Por lo tanto, es vital poseer un conocimiento básico de la teoría del color y de cómo se crean y se combinan los colores.<br><br><strong>1. El matiz<br>2. La luminosidad<br>3. La cantidad de luz',
-        imagen: require('@/assets/curso/tema_1/img_19.png'),
-        //leyendaImagen: 'Leyenda de la imagen',
+        leyendaImagen: 'Nota. Frogx3 (s.f.) Frogx3: Pantone Food',
       },
     ],
   }),

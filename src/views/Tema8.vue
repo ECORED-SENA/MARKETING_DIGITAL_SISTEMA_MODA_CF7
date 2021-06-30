@@ -8,12 +8,12 @@
         span 8
       h1 Fundamentos de mercadeo de moda
 
-    .row.justify-content-center.d-flex.p-4.mb-5
-      .col-lg-5
+    .row.mb-5
+      .col-lg-5.d-flex
         figure
-          img.img-a(src='@/assets/curso/tema_8/img_1.png', alt='')
-      .col-lg-6
-        p.mb-4 El marketing y la moda son dos elementos que están íntimamente conectados para conseguir el liderazgo del mercado, con una amplia gama de oportunidades para fidelizar una marca a través de los distintos medios, sobre todo los digitales. 
+          img(src='@/assets/curso/tema_8/img_1.png', alt='')
+      .col-lg-7
+        p El marketing y la moda son dos elementos que están íntimamente conectados para conseguir el liderazgo del mercado, con una amplia gama de oportunidades para fidelizar una marca a través de los distintos medios, sobre todo los digitales. 
 
         p El mercadeo de la moda se define como uno de los tipos de marketing enfocado al sector de la moda y se mantiene en continuo cambio como la moda misma, en éste se debe tener en cuenta importantes factores como el conocimiento del ADN de la marca y los productos de dicha marca, igualmente las estrategias de comunicación, el storytelling, segmentación de públicos, influencers y validadores de marca, además del ciclo de vida del producto.
       

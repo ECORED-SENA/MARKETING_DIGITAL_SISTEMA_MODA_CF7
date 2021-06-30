@@ -13,12 +13,12 @@
     #t_3_1.titulo-segundo
       h2 3.1 Tipos de canales de distribución
 
-    .row.mb-5.d-flex.p-4
-      .col-lg-6
+    .row.mb-5.d-flex
+      .col-lg-5.d-flex.p-1
         figure
           img.img-a.mb-5(src='@/assets/curso/tema_3/img_1.png', alt='')
 
-      .col-lg-6
+      .col-lg-7.d-flex.p-1
         p La convergencia de las nuevas tecnologías ha posibilitado que la conexión entre fabricantes, proveedores y consumidores sea mucho más eficaz traspasando barreras de tiempo y espacio, lo cual ha permitido la optimización de recursos económicos y de tiempo para llevar a cabo el proceso de distribución. Dentro del sistema moda, el uso de entornos digitales como aplicaciones web, social media, email marketing o marketing relacional, han sido claves en la adopción de las diferentes posibilidades que tiene el consumidor para obtener su producto de deseo, entendiendo la amplia variedad de elementos que el sistema moda provee a los consumidores. Dependiendo del conocimiento de los usuarios con respecto a la web, se ha establecido una relación mucho más cercana con la industria de la moda, pero es necesario reconocer los distintos canales de distribución que se desarrollan en la actualidad. 
 
     p.mb-5 De acuerdo con Miquel y Parra (2008) para entender los tipos de canales de distribución existentes, es de comprender tres factores que los determinan: #[br] #[strong 1. Longitud, 2. Tecnología de Compraventa y 3. Forma de Organización. Estos permitirán determinar qué canales de distribución se ajustan más a las necesidades de una organización teniendo en cuenta sus recursos y las entidades que intervienen]. Revisa la siguiente información para que tengas capacidad de valorar y seleccionar los canales de distribución:
@@ -72,7 +72,7 @@
     p.mb-5 A lo largo del tiempo, los lugares especializados en la comercialización de productos, ya sea un supermercado, tienda departamental o centro comercial supone una afluencia de público constante que interactúa con todo aquello que dicho local ofrece, lo cual genera una cultura de consumismo y es en realidad lo que una empresa busca. Gracias a la tecnología se ha podido configurar nuevos espacios para promocionar y vender productos a través de los entornos digitales, los cuales se adaptan a medida que surgen nuevas necesidades para que el usuario sienta el instinto de adquisición, acogiendo información útil para llevar a cabo el proceso de venta. De acuerdo con lo anterior, es como se llega al concepto de retail o comercio minorista.
 
     .row.align-items-center.mb-5
-      .col-lg-7
+      .col-lg-7.d-flex.p-5
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-0
             i.fas.fa-quote-left
@@ -82,7 +82,7 @@
             .h5.mb-0 Vigaray (2005)  
             p.mb-0 Citado por Quintero Arango, 2015
 
-      .col-lg-5
+      .col-lg-5.d-flex.p-1
         figure
           img(src='@/assets/curso/tema_3/img_2.png', alt='')
 
@@ -174,10 +174,10 @@
     p.mb-5 Como su nombre lo indica, hace referencia al uso de distintos canales, herramientas y estrategias que adopta una empresa para generar una experiencia de usuario completa, donde se integren los enfoques multicanal, tanto establecimientos físicos como sitios web o aplicaciones.
 
     .row.mb-5
-      .col-lg-6
+      .col-lg-5.d-flex.p-1
         figure
           img.img-a(src='@/assets/curso/tema_3/img_7.png', alt='')
-      .col-lg-6
+      .col-lg-7.d-flex.p-1
         .cajon--amarillo.p-4
           p Según Daisy Villalba, 2021:
 

@@ -24,15 +24,16 @@
       .tarjeta.color-secundario.p-3(x="56%" y="23%")
         p Son prendas producidas en serie con patrones que se repiten, estas siguen las tendencias y elementos que se dan en la alta costura. Las colecciones son presentadas por diferentes casas de moda en: semanas de la moda.
 
-      .tarjeta.color-secundario.p-3(x="56%" y="38%")
+      .tarjeta.color-secundario.p-3(x="56%" y="54%")
         p Esta línea se maneja dentro de lo que ahora se llama #[i midi couture], que permite generar prendas no tan costosas empleando textiles con bordados generados industrialmente, esto hace que sea menos costoso
 
 
-      .tarjeta.color-secundario.p-3(x="56%" y="54%")
+      .tarjeta.color-secundario.p-3(x="56%" y="69%")
         p Es una gama que se produce para las masas a precios muy bajos. Utiliza materiales de baja calidad dado que necesitan producir a una escala gigante, para circular sus productos, en este modelo se contempla la producción de series cortas basados en tendencias del momento.
 
-      .tarjeta.color-secundario.p-3(x="56%" y="70%")
-        p Esta categoría posee una filosofía de consumo responsable porque permite concienciar sobre el impacto de las vestir en el medio ambiente, el agotamiento de recursos y la huella que está dejando la industria textil en la sociedad. Está contemplada bajo modelos de sostenibilidad.
+      .tarjeta.color-secundario.p-3(x="27%" y="66%")
+        p Actualmente esta línea ha hecho impulsar fenómenos como el slow fashion y como la sostenibilidad juega un rol importante en la generación de productos, debido a las grandes cantidades de desecho textiles, lo que en ultimas genera un impacto medioambiental altísimo en contra del planeta.
+
 
 
 

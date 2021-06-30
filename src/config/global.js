@@ -299,7 +299,7 @@ export default {
       referencia:
         'Fashion, Luxury &Retail. (s.f.). Fashion, Luxury &Retail La apropiación Cultural en el Ámbito de la Moda  [Imagen 18].',
       link:
-        '(https://enriqueortegaburgos.com/la-apropiacion-cultural-en-el-ambito-de-la-moda/)',
+        'https://enriqueortegaburgos.com/la-apropiacion-cultural-en-el-ambito-de-la-moda/',
     },
 
     {
@@ -434,7 +434,7 @@ export default {
     {
       referencia: 'Tendencias de Moda. (2020). Trendencias',
       link:
-        '(https://www.trendencias.com/tendencias/15-tendencias-moda-esta-temporada-primavera-verano-2020-pasarelas)',
+        'https://www.trendencias.com/tendencias/15-tendencias-moda-esta-temporada-primavera-verano-2020-pasarelas',
     },
 
     {

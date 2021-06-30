@@ -10,8 +10,12 @@
 
     p.mb-5 Una tendencia hace referencia a una inclinación o disposición que tiene un grupo, comunidad o sociedad hacia un elemento o grupos de elementos, puede ser tangible e intangible, siendo así una tendencia puede generar gustos por elementos de diferentes áreas, incluso que generen coincidencia o adaptación de ideas y hasta corrientes que surgen de una sociedad. 
 
-    figure.mb-5
-      img.img-a(src='@/assets/curso/tema_5/img_1.png', alt='')
+    .row.justify-content-center.mb-5
+      .col-lg-11
+        p.BorTit Figura 13. Quince Tendencias de Moda.
+        figure
+          img.img-a(src='@/assets/curso/tema_5/img_1.png', alt='')
+          figcaption Nota. Tendencias de moda (2020). 
       
     #t_5_1.titulo-segundo
       h2 5.1 Tendencias de moda
