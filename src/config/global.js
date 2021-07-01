@@ -247,8 +247,10 @@ export default {
       link: 'https://www.emprendeaconciencia.com/curva-adopcion-innovacion',
     },
     {
-      referencia: 'Divi. (2019) Divi: La forma. [Imagen 7].',
-      link: 'https://anallasa.com/arte/iris-van-herpen-disenadora-futurista/ ',
+      referencia:
+        'Blog de Arte y Moda, Anallasa (2019). Blog de Arte y Moda, Anallasa: Iris Van Herpen, diseñadora futurista [Imagen 7].',
+      link:
+        'https://anallasa.wordpress.com/2019/02/04/iris-van-herpen-disenadora-futurista/',
     },
     {
       referencia:

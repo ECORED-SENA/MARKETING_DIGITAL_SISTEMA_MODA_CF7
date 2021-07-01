@@ -50,34 +50,34 @@
 
     p.mb-5 El diseñador ha de tomar en cuenta los aspectos estéticos y funcionales del objeto. Para ello debe considerar las siguientes etapas:
 
-    .row
-      .col-lg-3.mb-5
-        .tarjeta.color_tar.p-4.alt_tarj
+    .row.d-flex
+      .col-lg-3.mb-5.d-flex
+        .tarjeta.color_tar.p-4
           img.mb-3.img-b(src='@/assets/curso/tema_1/img_7.png')
           img.mb-3.img-b(src='@/assets/curso/tema_1/img_6.png')
           h2 Etapa 1
-          p Observar y analizar el medio en el cual se desenvuelve el individuo.
+          p.mb-0 Observar y analizar el medio en el cual se desenvuelve el individuo.
 
-      .col-lg-3.mb-5
-        .tarjeta.color-secundario.p-4.alt_tarj
+      .col-lg-3.mb-5.d-flex
+        .tarjeta.color-secundario.p-4
           img.mb-3.img-b(src='@/assets/curso/tema_1/img_8.png')
           img.mb-3.img-b(src='@/assets/curso/tema_1/img_6.png')
           h2 Etapa 2
-          p Evaluar las necesidades del individuo que hará uso del objeto.
+          p.mb-0 Evaluar las necesidades del individuo que hará uso del objeto.
 
-      .col-lg-3.mb-5
-        .tarjeta.color_tar.p-4.alt_tarj
+      .col-lg-3.mb-5.d-flex
+        .tarjeta.color_tar.p-4
           img.mb-3.img-b(src='@/assets/curso/tema_1/img_9.png')
           img.mb-3.img-b(src='@/assets/curso/tema_1/img_6.png')
           h2 Etapa 3
-          p Planear y proyectar a través de estudios, planos y/o maquetas la forma de dar solución a las necesidades identificadas.
+          p.mb-0 Planear y proyectar a través de estudios, planos y/o maquetas la forma de dar solución a las necesidades identificadas.
 
-      .col-lg-3.mb-5
-        .tarjeta.color-secundario.p-4.alt_tarj
+      .col-lg-3.mb-5.d-flex
+        .tarjeta.color-secundario.p-4
           img.mb-3.img-b(src='@/assets/curso/tema_1/img_10.png')
           img.mb-3.img-b(src='@/assets/curso/tema_1/img_6.png')
           h2 Etapa 4
-          p Ejecutar el proyecto.
+          p.mb-0 Ejecutar el proyecto.
 
     p.mb-5 El diseño de moda es el arte dedicado a la creación de vestuario, complementos y accesorios dentro de las influencias culturales y sociales en un período de tiempo específico, su finalidad creativa está orientada a soluciones idóneas de ciertas problemáticas del cuerpo, incursión social, estatus, físicas, entre otras. En el área del diseño, el abordaje de los fundamentos del diseño, son estudiados por carreras cercanas como son arquitectura, diseño industrial, diseño gráfico, entre otros y se dividen en 4 grandes grupos. Veamos a continuación:
 

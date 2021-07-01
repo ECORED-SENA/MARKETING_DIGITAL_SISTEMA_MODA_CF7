@@ -45,51 +45,51 @@
     p.mb-0 Según Renata y Frédéric, (2015):
     p.mb-5 La sociología de la moda intenta explicar cómo las relaciones entre el vestuario y la sociedad genera fenómenos como la aceptación, la imitación y la jerarquización entre clases sociales. La moda es social porque el hombre se viste para la sociedad, para las demás personas, y estos representan roles que deben ser simbolizados y una de las maneras más directas es el vestuario. Dentro de la sociología de la moda se contemplan 6 principios.
 
-    .row.justify-content-center.mb-5
-      .col-lg-4.mt-5
-        .jumbo_1.p-4
-          .tarjeta.color-secundario.p-4.alt_tarj_1.top-tarj
+    .row.justify-content-center.mb-5.d-flex
+      .col-lg-4.mt-5.d-flex
+        .jumbo_1.p-4.d-flex
+          .tarjeta.color-secundario.p-4.top-tarj
             .h3 01
             .h4 Principio de autoafirmación
             img.mb-3.img-b(src='@/assets/curso/tema_1/img_6.png')
-            p Generado a partir de la relación de un individuo con su identidad, cuyos factores que influyen en este principio es la distinción y la imitación.
+            p.mb-0 Generado a partir de la relación de un individuo con su identidad, cuyos factores que influyen en este principio es la distinción y la imitación.
 
-      .col-lg-4.mt-5
+      .col-lg-4.mt-5.d-flex
         .jumbo_2.p-4
-          .tarjeta.color-secundario.p-4.alt_tarj_1.top-tarj
+          .tarjeta.color-secundario.p-4.top-tarj
             .h3 02
             .h4 Principio de convergencia
             img.mb-3.img-b(src='@/assets/curso/tema_1/img_6.png')
-            p Enfocado en la centralización de las tendencias, es decir, aquí el individuo es selectivo en cuanto a que va con su estilo, así se presenten un sin número de tendencias en el mercado, aquí las marcas de moda juegan un rol importantísimo pues tienen un trabajo continuo en cuanto a la segmentación de su mercado con relación a su público objetivo.
+            p.mb-0 Enfocado en la centralización de las tendencias, es decir, aquí el individuo es selectivo en cuanto a que va con su estilo, así se presenten un sin número de tendencias en el mercado, aquí las marcas de moda juegan un rol importantísimo pues tienen un trabajo continuo en cuanto a la segmentación de su mercado con relación a su público objetivo.
 
-      .col-lg-4.mt-5
-        .jumbo_1.p-4
-          .tarjeta.color-secundario.p-4.alt_tarj_1.top-tarj
+      .col-lg-4.mt-5.d-flex
+        .jumbo_1.p-4.d-flex
+          .tarjeta.color-secundario.p-4.top-tarj
             .h3 03
             .h4 Principio de la autonomía
             img.mb-3.img-b(src='@/assets/curso/tema_1/img_6.png')
-            p Hace referencia a la construcción de la moda en el que es parcialmente independiente de lo político, económico, religioso o cultural, la moda surge a partir de las necesidades suscitadas en las sociedades, pero esta es adoptada sin que se deje de tener un concepto propio de lo que pasa alrededor de un individuo.
+            p.mb-0 Hace referencia a la construcción de la moda en el que es parcialmente independiente de lo político, económico, religioso o cultural, la moda surge a partir de las necesidades suscitadas en las sociedades, pero esta es adoptada sin que se deje de tener un concepto propio de lo que pasa alrededor de un individuo.
 
-    .row.justify-content-center.mb-5
-      .col-lg-4.mt-5
-        .jumbo_1.p-4
-          .tarjeta.color-secundario.p-4.alt_tarj_2.top-tarj
+    .row.justify-content-center.mb-5.d-flex
+      .col-lg-4.mt-5.d-flex
+        .jumbo_1.p-4.d-flex
+          .tarjeta.color-secundario.p-4.top-tarj
             .h3 04
             .h4 Principio de personalización
             img.mb-3.img-b(src='@/assets/curso/tema_1/img_6.png')
             p Relacionada con la figura de un diseñador como creativo de una casa de moda, esto genera en el consumidor de moda que pueda tener referentes.
 
-      .col-lg-4.mt-5
-        .jumbo_2.p-4
-          .tarjeta.color-secundario.p-4.alt_tarj_2.top-tarj
+      .col-lg-4.mt-5.d-flex
+        .jumbo_2.p-4.d-flex
+          .tarjeta.color-secundario.p-4.top-tarj
             .h3 05
             .h4 Principio de simbolización
             img.mb-3.img-b(src='@/assets/curso/tema_1/img_6.png')
             p Vinculada a las marcas en general que le brindan al consumidor una identificación propia con su estilo representado semióticamente en los vestidos, en moda aquí estaría el sector de Listos para llevar (Ready to wear).
 
-      .col-lg-4.mt-5
-        .jumbo_1.p-4
-          .tarjeta.color-secundario.p-4.alt_tarj_2.top-tarj
+      .col-lg-4.mt-5.d-flex
+        .jumbo_1.p-4.d-flex
+          .tarjeta.color-secundario.p-4.top-tarj
             .h3 06
             .h4 Principio de imperio
             img.mb-3.img-b(src='@/assets/curso/tema_1/img_6.png')
