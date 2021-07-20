@@ -19,7 +19,7 @@
           img.img-a.mb-5(src='@/assets/curso/tema_3/img_1.png', alt='')
 
       .col-lg-7.d-flex.p-1
-        p La convergencia de las nuevas tecnologías ha posibilitado que la conexión entre fabricantes, proveedores y consumidores sea mucho más eficaz traspasando barreras de tiempo y espacio, lo cual ha permitido la optimización de recursos económicos y de tiempo para llevar a cabo el proceso de distribución. Dentro del sistema moda, el uso de entornos digitales como aplicaciones web, social media, email marketing o marketing relacional, han sido claves en la adopción de las diferentes posibilidades que tiene el consumidor para obtener su producto de deseo, entendiendo la amplia variedad de elementos que el sistema moda provee a los consumidores. Dependiendo del conocimiento de los usuarios con respecto a la web, se ha establecido una relación mucho más cercana con la industria de la moda, pero es necesario reconocer los distintos canales de distribución que se desarrollan en la actualidad. 
+        p La convergencia de las nuevas tecnologías ha posibilitado que la conexión entre fabricantes, proveedores y consumidores sea mucho más eficaz traspasando barreras de tiempo y espacio, lo cual ha permitido la optimización de recursos económicos y de tiempo para llevar a cabo el proceso de distribución. Dentro del sistema moda, el uso de entornos digitales como aplicaciones web, social media, email #[i marketing] o #[i marketing] relacional, han sido claves en la adopción de las diferentes posibilidades que tiene el consumidor para obtener su producto de deseo, entendiendo la amplia variedad de elementos que el sistema moda provee a los consumidores. Dependiendo del conocimiento de los usuarios con respecto a la web, se ha establecido una relación mucho más cercana con la industria de la moda, pero es necesario reconocer los distintos canales de distribución que se desarrollan en la actualidad. 
 
     p.mb-5 De acuerdo con Miquel y Parra (2008) para entender los tipos de canales de distribución existentes, es de comprender tres factores que los determinan: #[br] #[strong 1. Longitud, 2. Tecnología de Compraventa y 3. Forma de Organización. Estos permitirán determinar qué canales de distribución se ajustan más a las necesidades de una organización teniendo en cuenta sus recursos y las entidades que intervienen]. Revisa la siguiente información para que tengas capacidad de valorar y seleccionar los canales de distribución:
 
@@ -57,7 +57,7 @@
     
             p #[strong Canales administrados:] dentro de este tipo de canal, una o varias entidades tiene la facultad de influir en las decisiones que se tomen frente a otros miembros. 
     
-            p #[strong Canales Integrados:] de refiere a la reagrupación de entidades del mismo nivel del canal de distribución o distintos niveles.
+            p #[strong Canales Integrados:] se refiere a la reagrupación de entidades del mismo nivel del canal de distribución o distintos niveles.
     
             p #[strong Canales asociados:] se refiere a las cooperativas de consumidores y sucursales.
 
@@ -92,7 +92,7 @@
       .bloque-texto-f__comillas
         i.fas.fa-quote-left
         i.fas.fa-quote-right
-      p.text-regular.bloque-texto-f__texto.text-center Atraer al público más allá del hecho de vender un producto en específico, significa generar toda una experiencia de compra, de esta forma, el retailing se integra por cada una de las estrategias adoptadas que complementen y agreguen mayor valor a los elementos que se comercializan no solo en la parte económica, sino en lo que proporciona significado de identidad para el consumidor, esto sin duda se alinea con las estrategias de marketing que permitirá la fidelización de clientes.
+      p.text-regular.bloque-texto-f__texto.text-center Atraer al público más allá del hecho de vender un producto en específico, significa generar toda una experiencia de compra, de esta forma, el retailing se integra por cada una de las estrategias adoptadas que complementen y agreguen mayor valor a los elementos que se comercializan no solo en la parte económica, sino en lo que proporciona significado de identidad para el consumidor, esto sin duda se alinea con las estrategias de #[i marketing ]que permitirá la fidelización de clientes.
 
       p.text-regular.bloque-texto-f__texto.text-center Para entender el rol que desempeña el retail o mercado minorista, es indispensable hablar de la cadena de abastecimiento, que se define como el conjunto de empresas que generan productos destinados al consumidor. Dentro de éstas se encuentran las organizaciones mayoristas y minoristas, que presentan importantes diferencias para identificar cómo se desarrollan en el mercado mediante el flujo de la mercancía.
       .bloque-texto-f__autor.mb-3

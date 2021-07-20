@@ -13,9 +13,9 @@
         figure
           img(src='@/assets/curso/tema_8/img_1.png', alt='')
       .col-lg-7
-        p El marketing y la moda son dos elementos que están íntimamente conectados para conseguir el liderazgo del mercado, con una amplia gama de oportunidades para fidelizar una marca a través de los distintos medios, sobre todo los digitales. 
+        p El #[i marketing] y la moda son dos elementos que están íntimamente conectados para conseguir el liderazgo del mercado, con una amplia gama de oportunidades para fidelizar una marca a través de los distintos medios, sobre todo los digitales. 
 
-        p El mercadeo de la moda se define como uno de los tipos de marketing enfocado al sector de la moda y se mantiene en continuo cambio como la moda misma, en éste se debe tener en cuenta importantes factores como el conocimiento del ADN de la marca y los productos de dicha marca, igualmente las estrategias de comunicación, el storytelling, segmentación de públicos, influencers y validadores de marca, además del ciclo de vida del producto.
+        p El mercadeo de la moda se define como uno de los tipos de #[i marketing]enfocado al sector de la moda y se mantiene en continuo cambio como la moda misma, en éste se debe tener en cuenta importantes factores como el conocimiento del ADN de la marca y los productos de dicha marca, igualmente las estrategias de comunicación, el storytelling, segmentación de públicos, influencers y validadores de marca, además del ciclo de vida del producto.
       
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -84,7 +84,7 @@
               figure
                 img(src='@/assets/curso/tema_8/img_6.png', alt='')
             .col-md-9.mb-5.md-0.mt-4
-              p Hacer uso de distintas técnicas para recolectar la información requerida para una investigación de mercado, donde a través de encuestas, estudios de caso, prueba de mercado, entrevista o focus group se identifiquen las necesidades de promoción de la marca y cuales son los escenarios más adecuados al igual que los públicos objetivos. Esta recolección se puede llevar a cabo a través de una investigación cuantitativa que se enfoque en cifras exactas, como en un método cualitativo que observa y estudie los comportamientos y resultados del sector determinado.
+              p Hacer uso de distintas técnicas para recolectar la información requerida para una investigación de mercado, donde a través de encuestas, estudios de caso, prueba de mercado, entrevista o focus group se identifiquen las necesidades de promoción de la marca y cuáles son los escenarios más adecuados al igual que los públicos objetivos. Esta recolección se puede llevar a cabo a través de una investigación cuantitativa que se enfoque en cifras exactas, como en un método cualitativo que observa y estudie los comportamientos y resultados del sector determinado.
           .row(numero="6" titulo="Entender el funcionamiento de la demanda")
             .col-md-3.mt-4
               figure
@@ -96,15 +96,15 @@
               figure
                 img(src='@/assets/curso/tema_8/img_8.png', alt='')
             .col-md-8.mb-5.md-0.mt-4
-              p Para direccionar la estrategia de mercadeo enfocada a la moda, la segmentación del mercado permitir identificar el público objetivo al cual se dirige para llevar a cabo las actividades que facilite el logro d ellos objetivos propuestos. De acuerdo con la temporada, las marcas pueden definir sus estrategias para llegar a los consumidores que desean teniendo en cuenta factores como la edad, el género, el estilo, características, clase social, poder adquisitivo, entre otros.
-          .row(numero="8" titulo="Mezcla de marketing que afecta al sector")
+              p Para direccionar la estrategia de mercadeo enfocada a la moda, la segmentación del mercado permitir identificar el público objetivo al cual se dirige para llevar a cabo las actividades que facilite el logro de ellos objetivos propuestos. De acuerdo con la temporada, las marcas pueden definir sus estrategias para llegar a los consumidores que desean teniendo en cuenta factores como la edad, el género, el estilo, características, clase social, poder adquisitivo, entre otros.
+          .row(numero="8" titulo="Mezcla de i marketing que afecta al sector")
             .col-md-3.mt-4
               figure
                 img(src='@/assets/curso/tema_8/img_9.png', alt='')
             .col-md-8.mb-3.md-0.mt-4
               p El producto debe estar dirigido a las exigencias y necesidades funcionales y estéticas de los clientes. El precio debe ser acorde al público dirigido después de conocerlo a través de los diferentes estudios y segmentación de mercado, en este punto es importante conocer la competencia y tener como referencia. La plaza se define como el lugar donde se dirige el público objetivo para adquirir los productos, lo cual debe ser observado minuciosamente con antelación. La promoción debe ser acorde con el consumidor elegido, para definir los canales de comunicación y publicidad que se utilizarán.
 
-              p Sugerimos observar el siguiente video donde conocerás un ejemplo de la Mezcla de Marketing, al entender la experiencia de la empresa Primark. 
+              p Sugerimos observar el siguiente video donde conocerás un ejemplo de la Mezcla de #[i Marketing], al entender la experiencia de la empresa Primark. 
                 strong ¿Qué esperas para observarlo?
 
             .row
@@ -147,7 +147,7 @@
             .col-md-8.mb-3.md-0.mt-4
               p Con el fin de evaluar el plan llevado a cabo es importante identificar los resultados obtenidos con la aplicación de determinada estrategia, esto permitirá entender si se debe continuar con lo propuesto o si por el contrario, se debe reevaluar, analizando las causas de los aciertos o errores, lo cual será el insumo principal para la toma de decisiones dentro de la marca.
 
-    p Hasta aquí hemos hecho una aproximación sobre el sistema moda y algunos aspectos del marketing que debes considerar en el momento que actúes como un emprendedor o colaborador de alguna organización, donde debes proponer y generar valor desde las necesidades e intereses de los clientes. 
+    p Hasta aquí hemos hecho una aproximación sobre el sistema moda y algunos aspectos del #[i marketing]que debes considerar en el momento que actúes como un emprendedor o colaborador de alguna organización, donde debes proponer y generar valor desde las necesidades e intereses de los clientes. 
 </template>
 
 <script>

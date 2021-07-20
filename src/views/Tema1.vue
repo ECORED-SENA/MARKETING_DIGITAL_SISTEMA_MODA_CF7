@@ -30,7 +30,7 @@
         .col-lg-4.mb-3
           img.img-a(src='@/assets/curso/tema_1/img_5.png')
         .col-lg-7
-          p Luego del ejercicio de observación generado por el recurso de aprendizaje anterior usted percibió cómo en el sistema moda confluyen y se retoman las manifestaciones del ser humano para configurar formas, colores y texturas que se componen a través de la vestimenta. Reconocemos que la intención es que usted identifique características de la moda para entender esta como producto en el mundo del marketing digital, sin embargo, hemos seleccionado un recurso que le provee información relacionada con la evolución de la moda, la historia del vestuario y demás. Adelante con su exploración. 
+          p Luego del ejercicio de observación generado por el recurso de aprendizaje anterior usted percibió cómo en el sistema moda confluyen y se retoman las manifestaciones del ser humano para configurar formas, colores y texturas que se componen a través de la vestimenta. Reconocemos que la intención es que usted identifique características de la moda para entender esta como producto en el mundo del #[i marketing ]digital, sin embargo, hemos seleccionado un recurso que le provee información relacionada con la evolución de la moda, la historia del vestuario y demás. Adelante con su exploración. 
 
     .row.justify-content-center.mb-5
       .col-lg-4
@@ -207,7 +207,7 @@
 
       .row.justify-content-center(titulo="El color")
         .col-lg-11
-          p Es uno de los elementos que se perciben con mayor rapidez en el instante de ver por primera vez un diseño. El color tiene una gran influencia en la intención de una colección ya que se encuentro relacionado a generar sensaciones. Por lo tanto, es vital poseer un conocimiento básico de la teoría del color y de cómo se crean y se combinan los colores. 
+          p Es uno de los elementos que se perciben con mayor rapidez en el instante de ver por primera vez un diseño. El color tiene una gran influencia en la intención de una colección ya que se encuentra relacionado a generar sensaciones. Por lo tanto, es vital poseer un conocimiento básico de la teoría del color y de cómo se crean y se combinan los colores. 
 
           ol.lista-ol.mb-5
             li 
@@ -230,7 +230,7 @@
     #esquemas.titulo-segundo
       h2 1.3 Esquemas de color
 
-    p.mb-5 Los esquemas de color es un termino y concepto incluido dentro de la teoría de color y hace referencia a las gamas y paletas que se establecen en el color, a partir de análisis de círculos cromáticos, en este apartado se abordarán las paletas y técnicas para sacar la combinación ideal ligado al vestuario. Cuando se habla de color en términos generales es aplicable a cualquier área, dado que es universal, dependerá del aprendiz su uso y aplicabilidad de acuerdo con la propuesta y producto esperado. Por lo anterior, se plasmarán cuáles son aquellos esquemas básicos de color ¿sabes cuáles son? Observa y diferencia uno del otro.
+    p.mb-5 Los esquemas de color es un término y concepto incluido dentro de la teoría de color y hace referencia a las gamas y paletas que se establecen en el color, a partir de análisis de círculos cromáticos, en este apartado se abordarán las paletas y técnicas para sacar la combinación ideal ligado al vestuario. Cuando se habla de color en términos generales es aplicable a cualquier área, dado que es universal, dependerá del aprendiz su uso y aplicabilidad de acuerdo con la propuesta y producto esperado. Por lo anterior, se plasmarán cuáles son aquellos esquemas básicos de color ¿sabes cuáles son? Observa y diferencia uno del otro.
 
     .row.justify-content-center.align-items-center
       .col-lg-2
@@ -307,7 +307,7 @@
         img.img-a(src='@/assets/curso/tema_1/img_34.png')
       .col-lg-10
         .h5 Esquema triada terciario
-        p Surge de una de dos combinaciones: naranja rojizo, verde amarillento y violeta azulado o verde azulado, naranja amarillento y violeta rojizo; todos los equidistantes uno del otro en el cirulo cromático.
+        p Surge de una de dos combinaciones: naranja rojizo, verde amarillento y violeta azulado o verde azulado, naranja amarillento y violeta rojizo; todos los equidistantes uno del otro en el círculo cromático.
     hr.hr
     .row.justify-content-center.align-items-center
       .col-lg-2
@@ -328,7 +328,7 @@
         img.img-a(src='@/assets/curso/tema_1/img_32.png')
       .col-lg-10
         .h5 Discordancia y disonancia
-        p En este punto es el que se puede jugar con las combinaciones en las que no necesariamente este guiada según la regla de combinación, en el sector de la moda suele verse mucho para generar una estructura visual que se integre en el vestuario y genere una unidad visual llamativa.
+        p En este punto es el que se puede jugar con las combinaciones en las que no necesariamente esté guiada según la regla de combinación, en el sector de la moda suele verse mucho para generar una estructura visual que se integre en el vestuario y genere una unidad visual llamativa.
     hr.hr
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2
@@ -379,7 +379,7 @@ export default {
         titulo: 'Pantone Food',
         tituloImg: 'Figura 3 Pantone Food',
         texto:
-          '¿Qué observas en la imagen?, si su respuesta una de sus respuesta es el color se conectado con esta descripción porque en la presente imagen se percibe como la naturaleza , la gastronomía inspira la paleta de colores del sistema de moda. ',
+          '¿Qué observas en la imagen?, si una de sus respuestas es el color se conecto con esta descripción porque en la presente imagen se percibe como la naturaleza, la gastronomía inspira la paleta de colores del sistema de moda. ',
         imagen: require('@/assets/curso/tema_1/img_4.png'),
         leyendaImagen: 'Nota. Frogx3 (s.f.) Frogx3: Pantone Food',
       },

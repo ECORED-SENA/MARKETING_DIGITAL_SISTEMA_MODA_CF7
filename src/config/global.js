@@ -213,11 +213,6 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
-      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -325,7 +320,8 @@ export default {
     {
       referencia:
         'Harriet Posner. (2011). Marketing Fashion. Barcelona: Gustavo Gili, SL.',
-      link: 'https://issuu.com/librospdfgratis/docs/marketing_de_moda_-_225',
+      link:
+        'http://190.116.26.93:2171/mdv-biblioteca-virtual/libro/documento/2MTaKoy2kDP8ZP8EHyT0c1_MARKETING_DE_MODA.pdf',
     },
 
     {
@@ -347,15 +343,15 @@ export default {
 
     {
       referencia:
-        'Kotler, P. y Armstrong, G. (2017). <i>Fundamentos de marketing</i>. Pearson Educación.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4393',
+        'Kotler, P. y Armstrong, G. (2017). Fundamentos de marketing. Pearson Educación.',
+      link:
+        'https://login.bdigital.sena.edu.co/login?url=http://www.ebooks7-24.com/?il=4393',
     },
 
     {
       referencia:
         'Lafayette Fashion. (2021). Lafayette Fashion: Discordancia y Disonancia [Imagen 15]. Lafayette Fashion.',
-      link:
-        'https://www.lafayettefashion.com.co/blog-moda/el-amor-y-las-rayas-en-su-maxima-expresion/',
+      link: 'https://valeriamarrufo.wordpress.com/author/valemarrufoblog/',
     },
 
     {
@@ -373,7 +369,7 @@ export default {
     {
       referencia:
         'Nannini, V. (2016) Moda, Comunicación y Poder: ¿Qué vestimos, por qué y qué queremos decir con eso?',
-      lin:
+      link:
         'https://rephip.unr.edu.ar/bitstream/handle/2133/6618/TesinaNanniniModa.pdf?sequence=3',
     },
 
@@ -443,7 +439,7 @@ export default {
       referencia:
         'Trendencias. (2020). Trendencias: Tendencias de Moda [Imagen 20].',
       link:
-        'https://www.trendencias.com/tendencias/15-tendencias-moda-esta-temporada-primavera-verano-2020-pasarelas)',
+        'https://www.trendencias.com/tendencias/15-tendencias-moda-esta-temporada-primavera-verano-2020-pasarelas',
     },
 
     {
@@ -511,19 +507,21 @@ export default {
       texto:
         'Nannini, V. (2016) Moda, Comunicación y Poder: ¿Qué vestimos, por qué y qué queremos decir con eso?',
       tipo: 'PDF',
-      link: '/downloads/TesinaNanniniModa.pdf',
+      descarga: '/downloads/TesinaNanniniModa.pdf',
     },
     {
       texto:
         'Kotler, P y Armstrong, G. (2017). Fundamentos de marketing. Pearson Educación.',
       tipo: 'Artículo',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=4393',
+      link:
+        'https://login.bdigital.sena.edu.co/login?url=http://www.ebooks7-24.com/?il=4393',
     },
     {
       texto:
         'Harriet, P. (2011). Marketing Fashion. Barcelona: Gustavo Gili, SL. ',
-      tipo: 'Libro',
-      link: 'https://issuu.com/librospdfgratis/docs/marketing_de_moda_-_225',
+      tipo: 'PDF',
+      descarga:
+        '/downloads/Marketing_de_moda_by_Harriet_Posner_(z-lib.org).pdf',
     },
   ],
   creditos: {
@@ -541,6 +539,46 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'María Camila Álvarez Trujillo',
+        cargo: 'Contratista Diseño Curricular',
+        centro:
+          'Regional Antioquia – Centro de Formación en Diseño, Confección y Moda',
+      },
+      {
+        nombre: 'Liliana María Ceballos',
+        cargo: 'Contratista Diseño Curricular',
+        centro:
+          'Regional Antioquia – Centro de Formación en Diseño, Confección y Moda',
+      },
+      {
+        nombre: 'Lady Johana Velásquez Hernández',
+        cargo: 'Contratista Diseño Curricular',
+        centro:
+          'Regional Antioquia – Centro de Formación en Diseño, Confección y Moda',
+      },
+      {
+        nombre: 'Paola Angélica Castro Salazar',
+        cargo: 'Contratista Diseño Curricular',
+        centro:
+          'Regional Antioquia – Centro de Formación en Diseño, Confección y Moda',
+      },
+      {
+        nombre: 'Cristian Metaute Medina',
+        cargo: 'Diseñador Instruccional',
+        centro:
+          'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica del SENA',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor Metodológico y Pedagógico',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlvedael Neftalí Lizcano Reyes',
+        cargo: 'Revisión y corrección de estilo',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
     ],
     desarrolloProducto: [
       {
@@ -555,25 +593,37 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: ['María Natalia Maldonado Delgado'],
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: [
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Víctor Raúl Cárdenas Cáceres',
+          'María Carolina Tamayo Lopez',
+          'Camilo Villamizar Lizcano',
+          'Arnulfo Beltran',
+        ],
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Ricardo Alonso González Vargas',
+        cargo: 'Desarrollo Front-End',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

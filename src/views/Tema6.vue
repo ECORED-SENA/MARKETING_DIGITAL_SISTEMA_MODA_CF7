@@ -69,7 +69,7 @@
             figure
               img.img-a(src='@/assets/curso/tema_6/img_6.png', alt='Texto que describa la imagen')
           .col-md-5.mb-4.mb-md-0
-            h2 Consumidor vanguardista
+            h2 Consumidor exhibicionista
             p Persona con gran necesidad de destacarse para verse original y distinto a los demás, con gran sensibilidad hacia nuevos conceptos de moda, posee un estilo ecléctico, es decir no se identifica con uno en particular. 
 
     .row.justify-content-center.mb-5
@@ -100,7 +100,7 @@
           .bloque-texto-a__texto.p-4
             p Históricamente las mujeres son mucho mejores en este proceso que los hombres, porque se han formado como recolectoras, donde han desarrollado capacidades para seleccionar entre diversas opciones la óptima de todas; por el contrario, el hombre, se ha formado como cazador y por esto compra de manera eficaz, encontrando un producto que satisfaga la necesidad, pero quizá no era la mejor opción de compra.
 
-    p.mb-5 En cada categoría actuaremos diferente, porque simplemente no somos un único tipo de comprador, ya que cambiamos según nuestra necesidades y gustos en cada grupo de productos.
+    p.mb-5 En cada categoría actuaremos diferente, porque simplemente no somos un único tipo de comprador, ya que cambiamos según nuestras necesidades y gustos en cada grupo de productos.
 
     .row.justify-content-center.mb-5
       .col-lg-10

@@ -124,7 +124,7 @@
               img.img-a(src='@/assets/curso/tema_7/img_9.png', alt='')
           .col-lg-4
             h2 Fashion experience
-            p Eventos enfocados en la experiencia de los clientes al unir varios factores como el arte, las tecnologías y el marketing en espacios creativos.
+            p Eventos enfocados en la experiencia de los clientes al unir varios factores como el arte, las tecnologías y el #[i marketing] en espacios creativos.
 
       .tarjeta.color-acento-contenido--borde.p-4(titulo="POP-UP STORES")
         .row
